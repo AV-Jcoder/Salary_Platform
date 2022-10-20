@@ -6,7 +6,6 @@ sudo systemctl restart mysql;
 
 sudo mysql -u root -p;
 
-
 CREATE DATABASE alexdb;
 
 show databases;
