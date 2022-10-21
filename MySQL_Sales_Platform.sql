@@ -1,9 +1,11 @@
 
 /**
  * Sales platform.
+ * Торговая платформа.
  * MySQL language. 
  * 
  */
+CREATE DATABASE sales_platform;
 
 DROP TABLE IF EXISTS customers;
 DROP TABLE IF EXISTS suppliers;
